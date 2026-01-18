@@ -3,12 +3,12 @@
 </p>
 <br>
 
-## 🚀 About Me
+## ✌️ About Me
 
-Hey! I'm **Breno Crepaldi**, a passionate developer who enjoys turning ideas into clean, maintainable, and well-structured code. I work across the stack — from building responsive front-ends with **React** and **TypeScript** to crafting robust back-end APIs using **Node.js** and **Python** — always focused on performance, scalability, and great developer experience.
+Hey! I’m **Breno Crepaldi**. I’m a developer who likes being part of the full process, from the first idea to a polished solution. I focus on clarity, maintainability, and building software that is reliable, scalable, and enjoyable to use and to build.
 
-- 🧠 Strong interest in clean architecture and maintainable code
-- 🌱 Currently exploring advanced React patterns and backend scalability
+- 🧠 I care a lot about writing code that makes sense tomorrow, not just today
+- 🛠️ I like building things from start to finish and polishing the details
 - 🎯 Always learning, always evolving
 - ☕ Powered by coffee and curiosity
 
@@ -78,7 +78,7 @@ Check out some of my work below!  Each repository tells a story of problem-solvi
 
 <br>
 
-## 📫 Let's Connect!
+## 🤙 Let's Connect!
 
 I'm always excited to connect with fellow developers, recruiters, and anyone interested in tech! Feel free to reach out: 
 
