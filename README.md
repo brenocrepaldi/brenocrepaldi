@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffc653&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Breno+Crepaldi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!" />
 </p>
 <br>
+<div align="end">
+  
+  ![](https://komarev.com/ghpvc/?username=brenocrepaldi&color=blue)
+  
+</div>
 
 ## ✌️ About Me
 
